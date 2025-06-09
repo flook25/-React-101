@@ -1,4 +1,4 @@
-# 🚀 [Your Project Name] - A Modern React Application
+# 🚀 A Modern React Application
 
 <div align="center">
   <a href="https://react.dev/" target="_blank">
